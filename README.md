@@ -1,1 +1,3 @@
-# elinabun
+# Elinabun
+This is currently a work in progress~
+
